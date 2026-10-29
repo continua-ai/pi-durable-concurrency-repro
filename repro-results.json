@@ -1,0 +1,50 @@
+[
+  {
+    "N": 1,
+    "idealPoolP95Ms": 4.6,
+    "disjointDocP50Ms": 5.2,
+    "disjointDocP95Ms": 5.2,
+    "disjointDocWallMs": 5.3,
+    "disjointEntryPlusColdSnapP95Ms": 28.5
+  },
+  {
+    "N": 2,
+    "idealPoolP95Ms": 4.7,
+    "disjointDocP50Ms": 5.1,
+    "disjointDocP95Ms": 5.1,
+    "disjointDocWallMs": 19.2,
+    "disjointEntryPlusColdSnapP95Ms": 28
+  },
+  {
+    "N": 4,
+    "idealPoolP95Ms": 4.5,
+    "disjointDocP50Ms": 9.6,
+    "disjointDocP95Ms": 23.6,
+    "disjointDocWallMs": 37.6,
+    "disjointEntryPlusColdSnapP95Ms": 45.9
+  },
+  {
+    "N": 8,
+    "idealPoolP95Ms": 4.7,
+    "disjointDocP50Ms": 19.2,
+    "disjointDocP95Ms": 61.1,
+    "disjointDocWallMs": 75.1,
+    "disjointEntryPlusColdSnapP95Ms": 87.9
+  },
+  {
+    "N": 16,
+    "idealPoolP95Ms": 4.6,
+    "disjointDocP50Ms": 37.6,
+    "disjointDocP95Ms": 136.2,
+    "disjointDocWallMs": 150.6,
+    "disjointEntryPlusColdSnapP95Ms": 158.4
+  },
+  {
+    "N": 32,
+    "idealPoolP95Ms": 4.9,
+    "disjointDocP50Ms": 76.3,
+    "disjointDocP95Ms": 272.1,
+    "disjointDocWallMs": 300.4,
+    "disjointEntryPlusColdSnapP95Ms": 303.4
+  }
+]

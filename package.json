@@ -1,0 +1,15 @@
+{
+  "name": "pi-durable-concurrency-repro",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal standalone benchmark showing SessionImpl.#tail I/O serialization across disjoint conversations in @earendil-works/pi-durable@1.4.0 (0ms CPU work in callbacks)",
+  "scripts": {
+    "start": "node repro-pi-durable-concurrency.mjs"
+  },
+  "dependencies": {
+    "@earendil-works/chord": "1.4.0",
+    "@earendil-works/pi-ai": "1.4.0",
+    "@earendil-works/pi-durable": "1.4.0"
+  }
+}
